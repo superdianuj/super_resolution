@@ -1,0 +1,2 @@
+train the model on some custom dataset with manual resolution adjustments, and then 
+test the trained model on a new but similar image.

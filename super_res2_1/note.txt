@@ -1,0 +1,1 @@
+Using a pretrained model Nina_SR model (trained on Div2K dataset on 300 epochs), and testing on new images
