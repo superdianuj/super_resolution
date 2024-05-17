@@ -33,5 +33,6 @@ https://github.com/superdianuj/super_resolution/assets/47445756/1c2a503e-e6e6-44
 
 
 # Reference
+https://github.com/isaaccorley/pytorch-enhance
 
 https://github.com/Coloquinte/torchSR
